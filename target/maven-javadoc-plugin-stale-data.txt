@@ -1,0 +1,46 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/xx/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar;C:/Users/xx/.m2/repository/org/apache/commons/commons-text/1.9/commons-text-1.9.jar;C:/Users/xx/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/data/maven-practice/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/data/maven-practice/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'maven-practice 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/data/maven-practice/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'maven-practice 1.0-SNAPSHOT API'
+ru.khaimin.dmitrii
+'C:/data/maven-practice/src/main/java/ru/khaimin/dmitrii/Main.java'
+C:\Users\xx\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar = 1649876540229
+C:\Users\xx\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar = 1649877065153
+C:\Users\xx\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar = 1649877065590
+C:\data\maven-practice\src\main\java = 1649781511295
+C:\data\maven-practice\target\site\apidocs\allclasses-frame.html = 1650035420359
+C:\data\maven-practice\target\site\apidocs\allclasses-noframe.html = 1650035420359
+C:\data\maven-practice\target\site\apidocs\constant-values.html = 1650035420294
+C:\data\maven-practice\target\site\apidocs\deprecated-list.html = 1650035420354
+C:\data\maven-practice\target\site\apidocs\help-doc.html = 1650035420374
+C:\data\maven-practice\target\site\apidocs\index-all.html = 1650035420344
+C:\data\maven-practice\target\site\apidocs\index.html = 1650035420364
+C:\data\maven-practice\target\site\apidocs\overview-tree.html = 1650035420334
+C:\data\maven-practice\target\site\apidocs\package-list = 1650035420244
+C:\data\maven-practice\target\site\apidocs\script.js = 1650035420374
+C:\data\maven-practice\target\site\apidocs\stylesheet.css = 1650034952257
